@@ -13,3 +13,9 @@
 - Sum & Product: After running the python file in the command line, you will be prompted to enter any number of positive integers, and to enter after each number. To complete your stream of numbers, enter 0. You will then be prompted to choose whether to get the SUM of the numbers, or the PRODUCT. Entering either will result in the corresponding answer being returned.
 - Power: After running the python file in the command line, you will be prompted to enter two positive integers, and enter after each number. Once the two numbers are entered, the answer will be returned.
 - Cube: After executing the cube file/program, the user will be prompted to enter a number. Hit 'Enter' once the user has input their number of choice. The output will display automatically on the next line. The output shows the cube of the number that the user has entered.
+
+## Team members
+- Sydney Fang
+- Mitch Hussack
+- Anshul Dhariwal
+- Paul Gray
