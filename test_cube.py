@@ -2,10 +2,9 @@ import unittest
 import cubic
 
 class TestCubic(unittest.TestCase):
-    def test_multiplication(self):
-        self.assertEqual(cubic.multiplication(20, 5), 100)
-        self.assertEqual(cubic.multiplication(-2, 1),-2)
-        self.assertEqual(cubic.multiplication(-1,-3), 3)
-        
+    def test_cube(self):
+        self.assertEqual(cubic.cube(2), 8)
+        self.assertEqual(cubic.cube(-2),-8)
+
 if __name__ == '__main__':
     unittest.main()
