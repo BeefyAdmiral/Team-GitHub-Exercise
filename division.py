@@ -18,12 +18,10 @@ while (not finished):
         nums.append(num)
 
 def division(ints):
-    div = 1
-    for i in ints:
+    div = ints[0]
+    for i in ints[1:]:
         div /= i
     return div
 
 d = division(nums)
 print("The division of the numbers is {}".format(d))
-
-#testing!
