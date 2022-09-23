@@ -5,7 +5,7 @@ Practice repository for COSC 499 GitHub Individual Exercise
 ## Feature Description
 
 - [Feature]: [It's description]
-- Cube: Takes an input and outputs the cube of that input.
+- Cube(): Takes an input and outputs the cube of that input.
 
 ## How to Use
 
