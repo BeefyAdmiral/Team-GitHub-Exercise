@@ -1,7 +1,8 @@
 ## Project Manager - Sydney Fang
 
 #### About me -
-
+My name is Sydney Fang.
+I am a 5th year double majoring in computer science and biochemistry.
 
 #### Fun fact about me -
 
