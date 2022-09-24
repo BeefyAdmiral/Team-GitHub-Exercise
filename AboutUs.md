@@ -15,16 +15,19 @@
 
 ## Client Liaison - Mitch Hussack
 
-#### About me -
-
+#### About me - 
+My name is Mitchel Hussack and I am a 4th year BSc computer science student. I am from Calgary and moved to Kelowna for university originally 3 years ago because I love the lake and the landscape out here.
 
 #### Fun fact about me -
-
+If I could go anywhere in the world, I'd go to Bali.
 
 #### My hobbies -
-
+- Going to the gym
+- FPS Shooter games
+- PC building
 
 #### Project Expectation -
+I hope to learn a lot about real world computer science work outside of university and really refine my skills in a real world application. 
 
 ---
 
